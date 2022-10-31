@@ -1,3 +1,3 @@
 Hi!
 
-[Mastodon](https://madtodon.social/@richbruchal)
+[Mastodon](https://mastodon.social/@richbruchal)
